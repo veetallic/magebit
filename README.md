@@ -1,1 +1,3 @@
-# magebit
+# Magebit
+
+It works!
